@@ -1,17 +1,23 @@
 body
 
-margin: 30;
-font-family: Helvetica;
 
+
+#title {
+margin: 150 px;
+text-decoration: blink;
+font-style: strong;
+font-family: Helvetica;
+}
 
 
 #logo {
-	height: 80px;
-	width: 160px;
+	height: 160px;
+	width: 320px;
 }
 
 #container {
 	display: flex;
+	margin-top: 200px;
 	align-items: center; 
 	justify-content: center;
 	flex-direction:column;}
