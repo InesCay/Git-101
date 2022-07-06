@@ -1,0 +1,18 @@
+body
+
+margin: 30;
+font-family: Helvetica;
+
+
+
+#logo {
+	height: 80px;
+	width: 160px;
+}
+
+#container {
+	display: flex;
+	align-items: center; 
+	justify-content: center;
+	flex-direction:column;}
+}
